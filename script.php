@@ -52,7 +52,7 @@ class Passaro {
     }
 
     public function setEstadoConservacao($estado_conservacao) {
-        $this->estado_conservacao = $estado_conservacao;
+        $this->estado_conservacao - $estado_conservacao;
     }
     public function getEstadoConservacao() {
         return $this->estado_conservacao;
@@ -72,7 +72,7 @@ class Passaro {
     }
 
     public function cantar(){
-        return (($this->getGenero() == "masculino") ? "O " : "A ") . $this->getEspecies(). " está cantando: ". $this->getSom() . "\n";
+        return (($this->getGenero() == "masculino") ? "O " : "A ") . especies. " está cantando: ". $this->getSom() . "\n";
     }
 
     public function mostrarinfo(){
@@ -84,7 +84,7 @@ class Passaro {
         "\nSom: ". $this->getSom(). "\n";
     }
 
-    public function comer(){
+    public function comer(): float{ 
         return (($this->getGenero() == "masculino") ? "O " : "A ") . $this->getEspecies(). " está comendo: ". $this->getAlimentacao() . "\n";
     }
 
