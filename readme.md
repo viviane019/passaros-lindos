@@ -1,7 +1,7 @@
 # 🐦 O Código dos Pássaros e a Criança Sonhadora
 
 <img src=https://i.pinimg.com/originals/42/08/1d/42081d246ca813a2496a8aa41c1ad426.jpg><br>
-Desde pequena, eu sonhava em ser um pássaro.  
+Desde pequena, eu sonhava em ser um pássaro. 
 Voar alto, cantar sem medo, ver o mundo lá de cima.  
 Enquanto outras crianças queriam ser astronautas ou princesas,  
 eu queria ter penas coloridas, um bico, e talvez...  
